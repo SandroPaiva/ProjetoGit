@@ -1,0 +1,1 @@
+Olá Esse arquivo leia-me é um exemplo para ser usado no curso de GIT
